@@ -1,1 +1,0 @@
-[Click here to see interactive maps in ipython](https://nbviewer.jupyter.org/github/MarkDz/IS362_Assignment5/blob/master/Assignment5.ipynb)
